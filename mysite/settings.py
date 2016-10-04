@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'es-PE'
 
-TIME_ZONE = 'PET'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
